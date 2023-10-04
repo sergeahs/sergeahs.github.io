@@ -1,8 +1,8 @@
 /*
-  Project Name: Palun - Dark Personal Portfolio HTML5 Template
-  Author: wpsmasher
-  Support: support@wpsmasher.com
-  Description: Personal Portfolio Bootstrap 4 and HTML5 Template
+  Project Name: Portofolio
+  Author: Serge AHOUANSINOU - Web & Mobile developper
+  Support: sahouansinou@gmail.com
+  Description:  I ❤ Laravel & AdonisJs, I ❤ Vuejs, NuxtJs, ReactJs & NextJs and I ❤ Flutter
   Version: 1.0
 */
 
@@ -83,6 +83,11 @@ h6 {
   font-weight: 700;
 }
 
+.img-fluid  {
+  max-width: 50%;
+  border-radius: 100px;
+}
+
 h1 a,
 h2 a,
 h3 a,
@@ -90,6 +95,10 @@ h4 a,
 h5 a,
 h6 a {
   color: inherit;
+}
+
+.pt-10{
+  padding-top: 5% !important;
 }
 
 h1 {
